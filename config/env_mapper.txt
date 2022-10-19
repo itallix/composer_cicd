@@ -1,0 +1,2 @@
+cicd-vk-test-220v9k~gs://europe-west3-cicd-vk-test-2-db2a583c-bucket/dags~test
+cicd-vk-prod-220v9k~gs://europe-west3-cicd-vk-prod-2-f208ea3c-bucket/dags~main
