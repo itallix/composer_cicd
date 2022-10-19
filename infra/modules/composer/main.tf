@@ -20,9 +20,6 @@ resource "google_composer_environment" "composer2" {
       }
     }
   }
-  timeouts {
-    create = "90m"
-  }
 }
 
 resource "null_resource" "del_env_mappers" {
